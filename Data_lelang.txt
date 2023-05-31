@@ -1,0 +1,5 @@
+1,Iphone 11 Pro,Bagus,10000000,300000000,12/6/2022 8:12,20/6/2022 13:20,Elektronik,Dibuka,test123,0
+23,asdassd,bgs,2000000,0,2/4/2020 5:0,2/5/2022 6:7,fsdf,Ditutup,0 ,0
+24,OPPO,bgs,30000,0,2/4/2022 7:0,4/5/2022 7:8,Elektronik,Ditutup,0 ,0
+6,fvghj,efr,346,0,5/6/57 89:0,56/34/57 45:57,bhhj,Ditutup, ,0
+7,test2,bagus,2000000,4000000,5/4/2023 20:5,10/4/2023 5:10,Dibuka,Elektronik,ada,1
